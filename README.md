@@ -1,0 +1,2 @@
+# patikaGoogle
+Patika Google Ödevi
